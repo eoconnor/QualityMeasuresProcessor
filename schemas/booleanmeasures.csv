@@ -1,0 +1,4 @@
+measure_id,10,TEXT
+performance_year,4,INTEGER
+is_required,1,BOOLEAN
+minimum_score,2,INTEGER
